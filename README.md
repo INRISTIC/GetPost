@@ -1,4 +1,4 @@
-{
+{ 
     "user": {
         "email": "darkest304@gmail.com",
         "username": "darkest",
